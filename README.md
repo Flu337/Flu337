@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  
+  ![Header](https://github.com/ваш_логин/ваш_логин/blob/main/assets/ваш_баннер.gif?raw=true)
 
-<!--
-**Flu337/Flu337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### 👨‍💻 Обо мне  
+  Привет! Я разработчик с опытом в Python и веб-технологиях.  
 
-Here are some ideas to get you started:
+  ### 🔗 Контакты  
+  <p align="center">
+    <a href="https://t.me/ваш_ник">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" />
+    </a>
+    <a href="https://vk.com/ваш_профиль">
+      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true)  
+
+</div>
