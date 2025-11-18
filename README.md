@@ -25,7 +25,7 @@
 
    ### 🌍 Соцсети и контакты 
   <p align="center">
-    <a href="https://t.me/HXGHXGHXGHXGHXGHXGHXGHXGHXHXGHXG">
+    <a href="https://t.me/HXG55HXG">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" />
     </a>
      <a href="https://steamcommunity.com/profiles/76561198413098640/"> 
